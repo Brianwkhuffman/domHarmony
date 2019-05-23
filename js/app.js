@@ -41,6 +41,10 @@ wantsDiv.innerHTML = 'Looking for a Mrs. McDonald.';
 data.appendChild(wantsDiv);
 
 //9. In the div id profile section, create a paragraph element with an id of pro2 and create a your own profile for Ronald (at least 2 sentences).
+var proP = document.createElement('p');
+proP.id = 'pro2';
+proP.innerHTML = 'Real down to earth clown. Guaranteed to knock your socks off or your money back!';
+profile.appendChild(proP);
 
 //10. In the div id matches section, target the first div element with the class name of firstName and change Name to Wendy.
 
