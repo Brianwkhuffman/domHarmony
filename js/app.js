@@ -51,6 +51,8 @@ var nameFirst = document.getElementsByClassName('firstName');
 nameFirst[0].innerHTML = 'Wendy';
 
 //11. In the div id matches section, target the first div element with the class name of otherAge and change Age to 48.
+var ageFirst = document.getElementsByClassName('otherAge');
+ageFirst[0].innerHTML = '48';
 
 //12. In the div id matches section, target the first div element with the class name of status and change Status to Single Mother.
 
