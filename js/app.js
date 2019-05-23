@@ -47,6 +47,8 @@ proP.innerHTML = 'Real down to earth clown. Guaranteed to knock your socks off o
 profile.appendChild(proP);
 
 //10. In the div id matches section, target the first div element with the class name of firstName and change Name to Wendy.
+var nameFirst = document.getElementsByClassName('firstName');
+nameFirst[0].innerHTML = 'Wendy';
 
 //11. In the div id matches section, target the first div element with the class name of otherAge and change Age to 48.
 
