@@ -76,7 +76,7 @@ proPic[2].src = 'http://www.spider-friends.com/Credits/cast/SPIDERMANFFspiderman
 
 nameFirst[2].innerHTML = 'Bri';
 ageFirst[2].innerHTML = '1337';
-statusFirst[2].innerHTML = "It's complicated";
+statusFirst[2].innerHTML = "I'm complicated";
 
 var myMotto = document.getElementsByClassName('motto');
 myMotto[2].innerHTML = 'Kept ya waitin huh';
