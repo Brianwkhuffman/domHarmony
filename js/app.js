@@ -71,6 +71,13 @@ ageFirst[1].innerHTML = 68;
  //div with class name of status
  //div with class anem of Motto
 
+var proPic = document.getElementsByClassName('other');
+proPic[2].src = 'http://www.spider-friends.com/Credits/cast/SPIDERMANFFspiderman.gif';
 
+nameFirst[2].innerHTML = 'Bri';
+ageFirst[2].innerHTML = '1337';
+statusFirst[2].innerHTML = "It's complicated";
 
+var myMotto = document.getElementsByClassName('motto');
+myMotto[2].innerHTML = 'Kept ya waitin huh';
 
